@@ -1516,7 +1516,8 @@ Net2=NetName=HVIN+_FIL|NetColor=$000099FF
 Net3=NetName=NetC?_1|NetColor=$000099FF
 Net4=NetName=NetC?_2|NetColor=$000099FF
 Net5=NetName=NetC13_1|NetColor=$000099FF
-Net6=NetName=SWP|NetColor=$000099FF
+Net6=NetName=NetC31_1|NetColor=$000099FF
+Net7=NetName=SWP|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
