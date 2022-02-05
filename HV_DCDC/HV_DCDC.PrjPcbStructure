@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Main.SchDot|SheetNumber=1
+Record=TopLevelDocument|FileName=Active_Clamp.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=IN_OUT_Switch.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=Main.SchDot|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=Primary_Transformer.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=V_AUX.SchDoc|SheetNumber=3
