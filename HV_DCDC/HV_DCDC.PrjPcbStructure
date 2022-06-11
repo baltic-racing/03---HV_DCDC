@@ -1,6 +1,8 @@
-Record=TopLevelDocument|FileName=Active_Clamp.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=IN_OUT_Switch.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=Info.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=Main.SchDot|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=Primary_Transformer_out.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Active_Clamp.SchDoc|FileName=V_AUX.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=In.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Info.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Interface_CTRL.SchDot|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Out.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Prim_CTRL.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Sek_CTRL.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=Trafo.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=In.SchDoc|FileName=V_AUX.SchDoc|SheetNumber=6
