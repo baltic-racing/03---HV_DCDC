@@ -388,7 +388,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=a3drucker
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1263,12 +1263,14 @@ Net6=NetName=NetC?_1|NetColor=clBlack
 Net7=NetName=NetC?_2|NetColor=$000099FF
 Net8=NetName=NetC13_1|NetColor=$000099FF
 Net9=NetName=NetC13_2|NetColor=$000099FF
-Net10=NetName=NetC31_1|NetColor=clBlack
-Net11=NetName=NetC34_1|NetColor=$000099FF
-Net12=NetName=NetC37_2|NetColor=clBlack
-Net13=NetName=NetC8_2|NetColor=clBlack
-Net14=NetName=NetD1_1|NetColor=$000099FF
-Net15=NetName=SWP|NetColor=$000099FF
+Net10=NetName=NetC16_2|NetColor=$000099FF
+Net11=NetName=NetC17_1|NetColor=$000099FF
+Net12=NetName=NetC31_1|NetColor=clBlack
+Net13=NetName=NetC34_1|NetColor=$000099FF
+Net14=NetName=NetC37_2|NetColor=clBlack
+Net15=NetName=NetC8_2|NetColor=clBlack
+Net16=NetName=NetD1_1|NetColor=$000099FF
+Net17=NetName=SWP|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
