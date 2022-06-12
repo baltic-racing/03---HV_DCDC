@@ -32,3 +32,12 @@ Draft1.asc
 Draft1.asc
 HV_DCDC/Status Report.Txt
 *.xlsx
+HV_DCDC/gerbers/Status Report.Txt
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2-macro.APR_LIB
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2-RectHoles.TXT
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2-RoundHoles.TXT
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2-SlotHoles.TXT
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2.apr
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2.EXTREP
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2.RUL
+HV_DCDC/gerbers/JLC_GERBERS/HV_DCDC_V2.LDP
