@@ -1263,10 +1263,10 @@ Net6=NetName=NetC?_1|NetColor=clBlack
 Net7=NetName=NetC?_2|NetColor=$000099FF
 Net8=NetName=NetC13_1|NetColor=$000099FF
 Net9=NetName=NetC13_2|NetColor=$000099FF
-Net10=NetName=NetC31_1|NetColor=$000099FF
+Net10=NetName=NetC31_1|NetColor=clBlack
 Net11=NetName=NetC34_1|NetColor=$000099FF
 Net12=NetName=NetC37_2|NetColor=clBlack
-Net13=NetName=NetC8_2|NetColor=$000099FF
+Net13=NetName=NetC8_2|NetColor=clBlack
 Net14=NetName=NetD1_1|NetColor=$000099FF
 Net15=NetName=SWP|NetColor=$000099FF
 
